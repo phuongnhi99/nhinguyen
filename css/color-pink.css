@@ -1,0 +1,227 @@
+/*============================
+		COLOR Pink
+==============================*/
+::selection {
+  background: #ea638c;
+}
+
+a,
+a:focus {
+  color: #ea638c;
+}
+
+a:hover,
+a:active {
+  color: #bf2672;
+}
+
+.primary-menu ul.navbar-nav > li:hover > a:not(.btn),
+.primary-menu ul.navbar-nav > li > a.active:not(.btn) {
+  color: #ea638c;
+}
+
+.primary-menu
+  ul.navbar-nav
+  > li.dropdown
+  .dropdown-menu
+  li:hover
+  > a:not(.btn) {
+  color: #ea638c;
+}
+
+.primary-menu.navbar-line-under-text ul.navbar-nav > li > a:not(.btn):after {
+  border-color: #ea638c;
+}
+
+/*== Secondary Nav ==*/
+.secondary-nav.nav.alternate .nav-item .nav-link.active {
+  border-color: #ea638c;
+}
+
+/* Page Header */
+.page-header.page-header-text-dark .breadcrumb > li a:hover {
+  color: #ea638c;
+}
+
+/* Accordion & Toggle */
+.accordion:not(.accordion-alternate) .card-header a {
+  background-color: #ea638c;
+  color: #fff;
+}
+
+/* Nav */
+.nav:not(.nav-pills) .nav-item .nav-link.active,
+.nav:not(.nav-pills) .nav-item .nav-link:hover {
+  color: #ea638c;
+}
+
+.nav-tabs .nav-item .nav-link.active {
+  color: #0c2f55;
+}
+
+.nav-tabs .nav-item .nav-link.active:after {
+  background-color: #ea638c;
+}
+
+.nav-tabs .nav-item .nav-link:not(.active):hover {
+  color: #ea638c;
+}
+
+.nav-tabs.flex-column .nav-item .nav-link.active {
+  color: #ea638c;
+}
+
+.nav-pills .nav-link:not(.active):hover {
+  color: #ea638c;
+}
+
+/* Brands Grid */
+.brands-grid > .row > div a:hover {
+  color: #ea638c;
+}
+
+#footer .nav .nav-item .nav-link:focus {
+  color: #ea638c;
+}
+
+#footer .nav .nav-link:hover {
+  color: #ea638c;
+}
+
+#footer .footer-copyright .nav .nav-link:hover {
+  color: #ea638c;
+}
+
+/* Back to Top */
+#back-to-top:hover {
+  background-color: #ea638c;
+}
+
+/* Extras */
+.bg-primary {
+  background-color: #ea638c !important;
+}
+
+.text-primary,
+.btn-light,
+.btn-outline-light:hover,
+.btn-link,
+.btn-outline-light:not(:disabled):not(.disabled).active,
+.btn-outline-light:not(:disabled):not(.disabled):active {
+  color: #ea638c !important;
+}
+
+.btn-link:hover {
+  color: #bf2672 !important;
+}
+
+.text-muted {
+  color: #8e9a9d !important;
+}
+
+.text-light {
+  color: #dee3e4 !important;
+}
+
+a.bg-primary:focus,
+a.bg-primary:hover,
+button.bg-primary:focus,
+button.bg-primary:hover {
+  background-color: #bf2672 !important;
+}
+
+.border-primary {
+  border-color: #ea638c !important;
+}
+
+.btn-primary {
+  background-color: #ea638c;
+  border-color: #ea638c;
+}
+
+.btn-primary:hover {
+  background-color: #bf2672;
+  border-color: #bf2672;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active {
+  background-color: #bf2672;
+  border-color: #bf2672;
+}
+
+.btn-primary.focus,
+.btn-primary:focus {
+  background-color: #bf2672;
+  border-color: #bf2672;
+}
+
+.btn-outline-primary,
+.btn-outline-primary:not(:disabled):not(.disabled).active,
+.btn-outline-primary:not(:disabled):not(.disabled):active {
+  color: #ea638c;
+  border-color: #ea638c;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:not(:disabled):not(.disabled).active:hover,
+.btn-outline-primary:not(:disabled):not(.disabled):active:hover {
+  background-color: #ea638c;
+  border-color: #ea638c;
+  color: #fff;
+}
+
+.progress-bar,
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link,
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: #ea638c;
+}
+
+.page-item.active .page-link,
+.custom-radio .custom-control-input:checked ~ .custom-control-label:before,
+.custom-control-input:checked ~ .custom-control-label::before,
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label:before,
+.custom-control-input:checked ~ .custom-control-label:before {
+  background-color: #ea638c;
+  border-color: #ea638c;
+}
+
+.list-group-item.active {
+  background-color: #ea638c;
+  border-color: #ea638c;
+}
+
+.page-link {
+  color: #ea638c;
+}
+
+.page-link:hover {
+  color: #bf2672;
+}
+
+.owl-theme.single-slideshow .owl-dots .owl-dot.active span,
+.owl-theme.single-slideshow .owl-dots .owl-dot:hover span {
+  border-color: #ea638c;
+}
+
+.owl-theme.single-slideshow .owl-dots .owl-dot.active span:after,
+.owl-theme.single-slideshow .owl-dots .owl-dot:hover span:after {
+  background-color: #ea638c;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  border-color: #ea638c;
+}
+
+.owl-theme .owl-dots .owl-dot.active span:after,
+.owl-theme .owl-dots .owl-dot:hover span:after {
+  background-color: #ea638c;
+}
+
+.owl-theme.dots-light .owl-dots .owl-dot.active span:after,
+.owl-theme.dots-light .owl-dots .owl-dot:hover span:after {
+  background-color: #ea638c;
+}
